@@ -18,5 +18,4 @@ void LCD_CGRAM(uint8_t Address);
 void LCD_DDRAM(uint8_t Address);
 void Delay (uint32_t delay);
 void Line (int i);
-
-#define DELAY 1800000
+#define DELAY 1200000
